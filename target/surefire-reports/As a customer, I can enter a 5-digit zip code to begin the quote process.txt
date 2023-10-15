@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As a customer, I can enter a 5-digit zip code to begin the quote process
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.597 s - in As a customer, I can enter a 5-digit zip code to begin the quote process

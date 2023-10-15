@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As a customer, I can select which type of building material my home is constructed with
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.611 s - in As a customer, I can select which type of building material my home is constructed with
